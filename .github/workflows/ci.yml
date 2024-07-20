@@ -12,7 +12,7 @@ on:
       - main
     paths:
       - 'web/**'
- workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
 
